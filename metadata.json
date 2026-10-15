@@ -1,0 +1,6 @@
+{
+  "name": "Dayline Calendar",
+  "description": "데이라인 캘린더 - 실제 기기 날짜와 캘린더 데이터를 기반으로 한 프리미엄 미니멀 생산성 달력",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
